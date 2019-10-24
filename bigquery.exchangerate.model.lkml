@@ -1,3 +1,3 @@
-connection: "bq-looker-datablocks"
+connection: "supersolid"
 
 include: "bigquery.explore"
